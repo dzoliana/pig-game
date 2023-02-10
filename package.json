@@ -2,15 +2,11 @@
   "name": "final",
   "version": "1.0.0",
   "description": "Pig game",
-  "default": "script.js",
+  "default": "index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dzoliana/pig-game.git"
   },
   "author": "Ana",
   "license": "ISC",
